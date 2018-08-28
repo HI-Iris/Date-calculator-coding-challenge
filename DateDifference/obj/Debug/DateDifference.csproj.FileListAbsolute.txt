@@ -1,0 +1,34 @@
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\bin\Debug\DateDifference.exe.config
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\bin\Debug\DateDifference.exe
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\bin\Debug\DateDifference.pdb
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.csprojResolveAssemblyReference.cache
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\MainWindow.g.cs
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\App.g.cs
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference_MarkupCompile.cache
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference_MarkupCompile.lref
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\MainWindow.baml
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.g.resources
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.Properties.Resources.resources
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.csproj.GenerateResource.Cache
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.exe
+h:\001\documents\visual studio 2015\Projects\DateDifference\DateDifference\obj\Debug\DateDifference.pdb
+C:\Users\001\Desktop\Iris_Code Challenge\DateDifference\DateDifference\bin\Debug\DateDifference.exe.config
+C:\Users\001\Desktop\Iris_Code Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.exe
+C:\Users\001\Desktop\Iris_Code Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.pdb
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\Project\DateDifference\DateDifference\bin\Debug\DateDifference.exe.config
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\Project\DateDifference\DateDifference\obj\Debug\DateDifference.exe
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\Project\DateDifference\DateDifference\obj\Debug\DateDifference.pdb
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\bin\Debug\DateDifference.exe.config
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.exe
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.pdb
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\bin\Debug\DateDifference.exe
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\bin\Debug\DateDifference.pdb
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.csprojResolveAssemblyReference.cache
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\MainWindow.g.cs
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\App.g.cs
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference_MarkupCompile.cache
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference_MarkupCompile.lref
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\MainWindow.baml
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.g.resources
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.Properties.Resources.resources
+H:\001\Documents\AAA Important Files\简历\IOOF intern\IOOF Coding Challenge\DateDifference\DateDifference\obj\Debug\DateDifference.csproj.GenerateResource.Cache
